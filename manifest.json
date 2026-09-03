@@ -1,5 +1,5 @@
 {
-  "pattern": "frame_%04d.webp",
+  "pattern": "assets/frame_%04d.webp",
   "count": 188,
   "fps": 12,
   "width": 960,
