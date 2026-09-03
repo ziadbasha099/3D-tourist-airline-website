@@ -1,0 +1,8 @@
+{
+  "pattern": "frame_%04d.webp",
+  "count": 188,
+  "fps": 12,
+  "width": 960,
+  "height": 540,
+  "sourceDuration": 15.666
+}
